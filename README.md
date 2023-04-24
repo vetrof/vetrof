@@ -1,6 +1,4 @@
 
-![00146_1-копия](https://user-images.githubusercontent.com/111348000/233981275-568771c8-1dba-41fa-85af-b96d6adfe68e.jpg)
-
 # Position: Python developer
 
 ## Tech:
