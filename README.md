@@ -5,8 +5,8 @@
 ![Python](https://img.shields.io/badge/-python-454443?style=for-the-badge&logo=python)
 ![django](https://img.shields.io/badge/-django-454443?style=for-the-badge&logo=django)
 ![rest](https://img.shields.io/badge/-rest-454443?style=for-the-badge&logo=django-rest)
-![SQLite](https://img.shields.io/badge/-SQLite-454443?style=for-the-badge&logo=SQLite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-454443?style=for-the-badge&logo=PostgreSQL)
+![SQL](https://img.shields.io/badge/-SQLite-454443?style=for-the-badge&logo=SQL)
+
 
 
 
