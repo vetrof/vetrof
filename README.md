@@ -9,9 +9,6 @@
 
 
 
-
- * Location: Kazakhstan
-
 ## Contacts:
 - https://www.linkedin.com/in/vitaly-lipkevich/
 - https://t.me/VitalyLip
