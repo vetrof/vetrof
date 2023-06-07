@@ -10,7 +10,6 @@
 
 
 ## Contacts:
-- https://www.linkedin.com/in/vitaly-lipkevich/
 - https://t.me/VitalyLip
 - vetrof@gmail.com
 - +7(705)2033873
