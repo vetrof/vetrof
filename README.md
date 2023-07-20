@@ -4,7 +4,7 @@
 ## Tech:
 ![Python](https://img.shields.io/badge/-python-454443?style=for-the-badge&logo=python)
 ![django](https://img.shields.io/badge/-django-454443?style=for-the-badge&logo=django)
-![rest](https://img.shields.io/badge/-rest-454443?style=for-the-badge&logo=django-rest)
+![rest](https://img.shields.io/badge/-DRF-454443?style=for-the-badge&logo=DRF)
 ![SQL](https://img.shields.io/badge/-SQLite-454443?style=for-the-badge&logo=SQL)
 
 
