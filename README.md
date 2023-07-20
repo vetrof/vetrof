@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-python-454443?style=for-the-badge&logo=python)
 ![django](https://img.shields.io/badge/-django-454443?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/-DRF-454443?style=for-the-badge&logo=DRF)
-![](https://img.shields.io/badge/--454443?style=for-the-badge&logo=)
+![](https://img.shields.io/badge/--454443?style=for-the-badge&logo=C)
 ![Docker](https://img.shields.io/badge/-Docker-454443?style=for-the-badge&logo=Docker)
 
 
