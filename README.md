@@ -3,6 +3,7 @@
 
 ## Tech:
 ![Python](https://img.shields.io/badge/-python-454443?style=for-the-badge&logo=python)
+![GO](https://img.shields.io/badge/-python-454443?style=for-the-badge&logo=GO)
 ![django](https://img.shields.io/badge/-django-454443?style=for-the-badge&logo=django)
 ![DRF](https://img.shields.io/badge/-DRF-454443?style=for-the-badge&logo=DRF)
 ![](https://img.shields.io/badge/--454443?style=for-the-badge&logo=C)
