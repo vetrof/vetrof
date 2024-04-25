@@ -1,5 +1,5 @@
 
-# Position: Python developer
+# Position: Backend developer
 
 ## Tech:
 ![Python](https://img.shields.io/badge/-python-454443?style=for-the-badge&logo=python)
