@@ -13,8 +13,6 @@
 
 
 ## Contacts:
-- https://t.me/VitalyLip
-- vetrof@gmail.com
 
 <!-- [![OK-WEBDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=ok-webdev)](https://github.com/anuraghazra/github-readme-stats)
 
